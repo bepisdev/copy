@@ -18,7 +18,7 @@ copy [OPTIONS] <SRC> <DEST>
 1. Clone the repo
 
 ``` console
-$ git clone https://github.com/joshburnsxyz/copy
+$ git clone https://github.com/bepisdev/copy
 ```
 
 2. Run the `make` command.
